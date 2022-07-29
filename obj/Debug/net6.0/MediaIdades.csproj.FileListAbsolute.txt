@@ -1,0 +1,15 @@
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MediaIdades\bin\Debug\net6.0\MediaIdades.exe
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MediaIdades\bin\Debug\net6.0\MediaIdades.deps.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MediaIdades\bin\Debug\net6.0\MediaIdades.runtimeconfig.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MediaIdades\bin\Debug\net6.0\MediaIdades.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MediaIdades\bin\Debug\net6.0\MediaIdades.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MediaIdades\obj\Debug\net6.0\MediaIdades.csproj.AssemblyReference.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MediaIdades\obj\Debug\net6.0\MediaIdades.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MediaIdades\obj\Debug\net6.0\MediaIdades.AssemblyInfoInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MediaIdades\obj\Debug\net6.0\MediaIdades.AssemblyInfo.cs
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MediaIdades\obj\Debug\net6.0\MediaIdades.csproj.CoreCompileInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MediaIdades\obj\Debug\net6.0\MediaIdades.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MediaIdades\obj\Debug\net6.0\refint\MediaIdades.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MediaIdades\obj\Debug\net6.0\MediaIdades.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MediaIdades\obj\Debug\net6.0\MediaIdades.genruntimeconfig.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MediaIdades\obj\Debug\net6.0\ref\MediaIdades.dll
